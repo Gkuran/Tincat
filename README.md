@@ -1,2 +1,1 @@
-# Tincat
-Tincat repository
+Tincat Files
